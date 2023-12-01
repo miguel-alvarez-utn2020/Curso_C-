@@ -1,0 +1,7 @@
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\bin\Debug\MiPrimerApp.exe.config
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\bin\Debug\MiPrimerApp.exe
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\bin\Debug\MiPrimerApp.pdb
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\obj\Debug\MiPrimerApp.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\obj\Debug\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\obj\Debug\MiPrimerApp.exe
+C:\Users\Migue\source\repos\MiPrimerApp\MiPrimerApp\obj\Debug\MiPrimerApp.pdb
